@@ -1,0 +1,4 @@
+C:\Users\LAB104PC7\Documents\Projects\AppMayorMenor\AppMayorMenor\bin\Debug\AppMayorMenor.exe
+C:\Users\LAB104PC7\Documents\Projects\AppMayorMenor\AppMayorMenor\bin\Debug\AppMayorMenor.pdb
+C:\Users\LAB104PC7\Documents\Projects\AppMayorMenor\AppMayorMenor\obj\x86\Debug\AppMayorMenor.exe
+C:\Users\LAB104PC7\Documents\Projects\AppMayorMenor\AppMayorMenor\obj\x86\Debug\AppMayorMenor.pdb
